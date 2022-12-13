@@ -4,7 +4,8 @@
 
 I'm interested in web development. I develop website. I love coding.
 
-Skills: / HTML /CSS / JS / REACT / Pythone / C / C# / 
+Skills: / HTML /CSS / Bootstrap / JS / REACT / Pythone / C / C# / 
+
 
 - 🔭 I’m currently working on Project 
 - 🌱 I’m currently learning JavaScript and PHP 
