@@ -23,10 +23,7 @@ Skills:   REACT / JS / ES6  / DOM /   HTML / CSS / TAILWIND CSS / BOOTSTRAP / WO
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mazharulislam-12&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mazharulislam-12)  
-
 ![GitHub metrics](https://metrics.lecoq.io/mazharulislam-12)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mazharulislam-12)  
 
-![Profile views](https://gpvc.arturio.dev/mazharulislam-12)  
