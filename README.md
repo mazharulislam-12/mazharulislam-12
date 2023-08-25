@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Mazharul Islam
-#### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D4D16AQGepimuq0mLbQ/profile-displaybackgroundimage-shrink_350_1400/0/1692975970402?e=1698278400&v=beta&t=O44NouBz1gtuis-yvQhzBKb7ox62Jsqodwl24OZUhqk)
+## Hi there 👋, I'm Mazharul Islam
+### Web Developer
+![Web Developer](https://media.licdn.com/dms/image/D5616AQFYFzRPKOnoig/profile-displaybackgroundimage-shrink_350_1400/0/1692986478834?e=1698278400&v=beta&t=iEJnwNkq4modXj-wg9uPydwf36Ks3bZJU9ZlhQoM98A)
 
 Hi there! I’m Mazharul Islam. I'm a front-end developerI. I enjoy developing simple, clean and slick websites that provide real value to the end user. Thousands of clients have procured exceptional results while working with me. Delivering work within time and budget which meets clients requirements in our mata.
 
@@ -22,8 +22,6 @@ Skills:   REACT / JS / ES6  / DOM /   HTML / CSS / TAILWIND CSS / BOOTSTRAP / WO
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazharulislam-12)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mazharulislam-12&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/mazharulislam-12)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mazharulislam-12)  
 
